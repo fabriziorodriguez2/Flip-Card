@@ -14,4 +14,6 @@ Este proyecto consiste en una **tarjeta interactiva (flip card)** creada únicam
 - Abri el archivo **index.html** en tu navegador
 
 ## Vista Previa
+![image](https://github.com/user-attachments/assets/9be9bd4b-79f1-45ea-a547-a916911695fd)
+![image](https://github.com/user-attachments/assets/fa107579-aa46-444d-b467-7d60b4275e08)
 
